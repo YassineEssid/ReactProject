@@ -19,7 +19,7 @@ const Events = () => {
     return (
         <div>
             {showWelcome && <Alert variant="info">Welcome to our Platform!</Alert>}
-            <h1>Events</h1>
+            <h1>Nos Events</h1>
             {db.map((e,index)=> <Event key={index} e={e}/>)}
         </div>
     );
