@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Festival international de Carthage",
+      "description": "Le Festival international de Carthage (arabe : مهرجان قرطاج الدولي) est un festival annuel de musique, théâtre et danse, ayant lieu aux mois de juillet et août, depuis 1964, dans la ville côtière de Carthage (Tunisie). ",
+      "img": "/assets/event3.jpg",
+      "price": 20,
+      "nbTickets": 50,
+      "nbParticipants": 20,
+      "like": false
+    },
+    {
+      "name": "Festival de hammamet",
+      "description": "Le Festival international d'Hammamet est un festival annuel de musique et d'art organisé depuis 1964 dans la ville côtière d'Hammamet en Tunisie.",
+      "img": "/assets/event3.jpeg",
+      "price": 15,
+      "nbTickets": 10,
+      "nbParticipants": 30,
+      "like": false
+    },
+    {
+      "name": "festival de douga",
+      "description": "Le Festival international de Dougga est un festival annuel de musique ayant lieu aux mois de juillet et août, depuis 1920, au sein du site archéologique de Dougga en Tunisie.",
+      "img": "/assets/event3.jpg",
+      "price": 10,
+      "nbTickets": 30,
+      "nbParticipants": 35,
+      "like": false
+    }
+  ]
